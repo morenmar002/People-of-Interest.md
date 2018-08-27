@@ -1,0 +1,3 @@
+# People-of-Interest.md
+
+Ada Lovelace is known as a famous mathematician in the 1800's. Born on the 10th of December, her parents were Lord and Lady Byron, Lord Byron was known aa a famous english poet. As a small child Ada was talented and thrived in math, her mother hired tutors for her and pushed her to pursue a career in STEM. Later Ada met Charles Bbabbage, a fellow mathematician that started working with her in arithmetics and computer science. As a woman, any works of computer science were disregarded. Her work was discovered in the 1950's and she is known as the first computer programmer while her partner was known as the Father of Computer Science. 
